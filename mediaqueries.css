@@ -52,6 +52,7 @@
     align-items: center;
   }
   .col {
+    height: 30rem;
     width: 100%;
   }
 }
@@ -108,5 +109,11 @@
   }
   .text-container {
     text-align: justify;
+  }
+  .contactSvg {
+    display: none;
+  }
+  .myBtn {
+    font-size: x-small;
   }
 }
