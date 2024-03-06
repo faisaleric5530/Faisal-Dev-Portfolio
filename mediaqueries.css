@@ -58,6 +58,10 @@
   .myBtn {
     font-size: small;
   }
+  .contCaption {
+    font-size: small;
+    width: 75%;
+  }
 }
 
 @media screen and (max-width: 600px) {
@@ -118,5 +122,12 @@
   }
   .myBtn {
     font-size: x-small;
+  }
+  .contCapPar {
+    height: 20vh;
+  }
+  .contCaption {
+    font-size: small;
+    width: 75%;
   }
 }

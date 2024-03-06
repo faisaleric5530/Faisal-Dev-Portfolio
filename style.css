@@ -400,7 +400,7 @@ article .icon {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  height: 70vh;
+  height: 68vh;
 }
 
 .contact-info-upper-container {
@@ -432,6 +432,24 @@ article .icon {
 
 .email-icon {
   height: 2.5rem;
+}
+
+.contCapPar {
+  width: 100%;
+  margin-top: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.contCaption {
+  width: 30%;
+  text-align: center;
+  font-size: medium;
+  color: rgb(62, 6, 6);
+  padding: 1rem;
+  border: 1.5px solid rgb(62, 6, 6);
+  border-radius: 1rem;
 }
 
 /* FOOTER SECTION */
