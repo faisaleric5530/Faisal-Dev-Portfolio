@@ -112,6 +112,7 @@ a:hover {
   color: rgb(62, 6, 6);
   text-decoration: none;
   transition: all 0.3 ease-in-out;
+  font-size: medium;
 }
 
 .menu-links li {
