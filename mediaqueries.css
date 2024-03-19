@@ -131,3 +131,11 @@
     width: 75%;
   }
 }
+
+@media screen and (max-width: 400px) {
+  .contCaption {
+    margin-top: 15rem;
+    font-size: small;
+    width: 75%;
+  }
+}
